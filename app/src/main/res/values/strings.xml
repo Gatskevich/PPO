@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FindTheLetter</string>
+    <string name="s_r">s---r</string>
+    <string name="help">Help</string>
+    <string name="score_00">Score: 00</string>
+</resources>
